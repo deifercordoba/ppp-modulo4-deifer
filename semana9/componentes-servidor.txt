@@ -1,5 +1,5 @@
-- Sistema operativo:
-- Node.js:
-- Aplicación server.js:
-- Puerto:
-- Logs:
+- Sistema operativo:Software principal que administra los recursos del computador y permite ejecutar programas.
+- Node.js:Entorno de ejecución que permite ejecutar código JavaScript fuera del navegador.
+- Aplicación server.js:Archivo principal de una aplicación Node.js que contiene la configuración y lógica del servidor.
+- Puerto:Número que identifica un canal de comunicación utilizado por una aplicación o servicio en una red.
+- Logs:Registros que almacenan información sobre las actividades, eventos y posibles errores de un sistema o servidor.

@@ -1,3 +1,3 @@
-- Qué ocurre cuando ejecutas node server.js.
-- Qué mensaje aparece en la terminal.
-- Qué sucede cuando visitas la ruta /estado.
+- Qué ocurre cuando ejecutas node server.js.Cuando ejecuto node server.js: Se inicia la aplicación del servidor y queda lista para recibir solicitudes.
+- Qué mensaje aparece en la terminal.Aparece un mensaje indicando que el servidor está en funcionamiento.
+- Qué sucede cuando visitas la ruta /estado.Se muestra una respuesta que informa el estado de la aplicación o confirma que el servidor está funcionando correctamente.
